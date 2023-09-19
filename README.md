@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/xHx-Alan/xHx-Alan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AlanRothmann/AlanRothmann/output/snake.svg" alt="Snake animation" />
 
 ###
