@@ -40,7 +40,3 @@
 </div>
 
 ###
-
-<img src="https://githubusercontent.com/AlanRothmann/AlanRothmann/output/snake.svg" alt="Snake animation" />
-
-###
