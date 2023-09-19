@@ -34,10 +34,10 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhxeGkycGptdWEwcDh5M2J5Z3ozZjRqNXQyNHBiaTQwMmRyemt5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8pVIhR4vHU2rANmO/giphy-downsized-large.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhxeGkycGptdWEwcDh5M2J5Z3ozZjRqNXQyNHBiaTQwMmRyemt5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8pVIhR4vHU2rANmO/giphy-downsized-large.gif"  />
+<img src="https://raw.githubusercontent.com/xHx-Alan/xHx-Alan/output/snake.svg" alt="Snake animation" />
 
 ###
