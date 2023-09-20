@@ -2,7 +2,11 @@
 
 ###
 
-<h4 align="left">My name is Alan and I'm a Full Stack Student at growdev.<br><br>Here are some of the technologies i'm currently learning ...</h4>
+<h4 align="left">My name is Alan, lets talk a little about me...<br><br>
+  I'm a Full Stack Student at growdev.<br><br>
+  also currently pursuing a higher education degree in Software Engineering at Universidade Estácio de Sá<br><br>
+  SOFTWARE ARCHTECTURE, JAVASCRIPT, PHP, PYTHON, JAVA, NOSQL, CLOUD SECURITY and BACK-END are some of the topics. <br><br>
+  Here are some of the technologies i'm currently learning ...</h4>
 
 ###
 
@@ -16,6 +20,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
