@@ -4,8 +4,7 @@
 
 <h4 align="left">My name is Alan, lets talk a little about me...<br><br>
   I'm a Full Stack Student at growdev.<br><br>
-  also currently pursuing a higher education degree in Software Engineering at Universidade Estácio de Sá<br><br>
-  SOFTWARE ARCHTECTURE, JAVASCRIPT, PHP, PYTHON, JAVA, NOSQL, CLOUD SECURITY and BACK-END are some of the topics. <br><br>
+  I am also currently pursuing a higher education degree in Software Engineering at Universidade Estácio de Sá.<br><br>
   Here are some of the technologies i'm currently learning ...</h4>
 
 ###
